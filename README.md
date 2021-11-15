@@ -12,3 +12,7 @@
 ## Games
 1. [*Sky: Children of Light*](https://discord.gg/thatskygame): One of the ***best games ever***. Vincent Diamante did a really good of the soundtrack, and, yep. There's releases on [Android](https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en_US&gl=US), [iOS (and also macOS, I guess)](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269), and [Nintendo Switch](https://www.nintendo.com/games/detail/sky-children-of-the-light-switch/).
 2. [Rocket Leauge [*sic*]](https://discord.gg/rocketleague): The best competive game ever. Avalible in all these places: [Xbox](https://www.xbox.com/en-US/games/store/rocket-league/C125W9BG2K0V), [PC via Steam](https://store.steampowered.com/news/app/252950), [PS](https://store.playstation.com/en-us/product/UP2002-CUSA01163_00-ROCKETLEAGUENA01) and [Nintendo Switch](https://www.nintendo.com/games/detail/rocket-league-switch/).
+# Notes
+I want you opinions. Do submit a pull request with more good servers for these things, and I *will* join them, especially if it's relating to someone's passion project, or a game I love. Also, I follow tons more. Do DM me to find out more!'
+## Socials
+See my Discord profile to see my Reddit.
